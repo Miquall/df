@@ -1,16 +1,36 @@
-#  -Fan-Update-Rimworld-Combat-AI-5000-1.6
-Hey everyone! I've recompiled the classic Combat AI 5000 mod to be compatible with RimWorld 1.6.  This mod makes pawns RimWorld Combat AI 5000 - 1.6 Fan Update
+RimWorld Combat AI 5000 – Fan Update (v1.6 Compatible)
 
-DESCRIPTION:
-This mod re-compiles the classic Combat AI 5000 mod to be compatible with RimWorld 1.6. It improves your pawns' combat skills by giving them tactical pathfinding, smarter cover usage, and more.
+Hey everyone!
+This is a fan-made update of the classic Combat AI 5000 mod, recompiled to work with RimWorld 1.6.
 
-INSTALLATION:
-1. Unzip the file and place the "CAI-5000" folder into your RimWorld mods folder.
-2. Enable the mod in the RimWorld main menu.
+It makes your pawns smarter in combat by improving:
 
-CREDITS:
-I am not the original author of this mod. All credit goes to the brilliant modder and creator, kbatbouta. I have only provided this unofficial compatibility update as a community effort to make the mod playable on the latest game version. smart in combat, allowing for tactical pathfinding and smarter cover usage. I am not the original author—all credit goes to kbatbouta. This is a completely free community effort. 
+✅ Tactical pathfinding
 
-Download Link:    https://mega.nz/file/GlJQkJCA#dcQ1jFwnyPgqTDtpiKqtMAc5fq2ng9NrUwoh749CwnA
+✅ Smarter cover usage
 
-Enjoy!
+✅ More responsive AI in firefights
+
+📥 Installation
+
+Download the latest release
+
+Unzip the archive
+
+Place the CAI-5000 folder into your RimWorld/Mods directory
+
+Enable the mod in the game’s Mod Menu
+
+🙏 Credits
+
+Original Author: kbatbouta
+
+Update: This unofficial compatibility update was made purely as a community effort.
+
+I take no credit for the original work — all thanks go to the brilliant creator!
+
+⚠️ Notes
+
+This update is not officially supported by the original mod author.
+
+Free to use, share, and improve within the RimWorld modding community.
